@@ -2,7 +2,7 @@ from datetime import date
 
 
 class Biblioteca:
-    def __init__(self, nombre):
+    def __init__(self, nombre: str):
         self.nombre = nombre
         self.codigo = []
         self.biblioteca = []
