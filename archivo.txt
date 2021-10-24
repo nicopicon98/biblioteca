@@ -1,0 +1,48 @@
+Id: A000
+Titulo: Harry Potter and the sorcere's stone
+Autor: J.K Rowling
+fecha: 26-06-1997
+genero: Fantasy Fiction
+-----------------------
+Id: A001
+Titulo: Harry Potter and the chamber of secrets
+Autor: J.K Rowling
+fecha: 02-07-1998
+genero: Fantasy Fiction
+-----------------------
+Id: A002
+Titulo: Harry Potter and prisoner of Azkaban
+Autor: J.K Rowling
+fecha: 08-07-1999
+genero: Fantasy Fiction
+-----------------------
+Id: A003
+Titulo: Harry Potter and the goblet of fire
+Autor: J.K Rowling
+fecha: 08-07-2000
+genero: Fantasy Fiction
+-----------------------
+Id: A004
+Titulo: Harry Potter and the order of the phoenix
+Autor: J.K Rowling
+fecha: 21-06-2003
+genero: Fantasy Fiction
+-----------------------
+Id: A005
+Titulo: Harry Potter and the half-blood prince
+Autor: J.K Rowling
+fecha: 16-07-2005
+genero: Fantasy Fiction
+-----------------------
+Id: A006
+Titulo: Harry Potter and the deathly hallows
+Autor: J.K Rowling
+fecha: 21-07-2007
+genero: Fantasy Fiction
+-----------------------
+Id: A007
+Titulo: One
+Autor: Metallica
+fecha: 26-10-2009
+genero: Metal
+-----------------------
